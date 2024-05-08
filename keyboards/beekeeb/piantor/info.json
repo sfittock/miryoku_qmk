@@ -11,7 +11,7 @@
         "mousekey": true,
         "nkro": true
     },
-    "processor": "RP2040",
+    "processor": "atmega32u4",
     "url": "https://github.com/beekeeb/piantor",
     "usb": {
         "device_version": "1.0.0",
